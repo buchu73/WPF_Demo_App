@@ -121,4 +121,3 @@ public string Title
 3. **Maintenabilité** : Modification centralisée de l'apparence
 4. **Flexibilité** : Personnalisation complète sans perdre la fonctionnalité native
 5. **Performance** : Les templates sont compilés et optimisés par WPF
-# WPF_Demo_App
